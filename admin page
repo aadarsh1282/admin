@@ -1,0 +1,6 @@
+# Welcome to admin page
+id = input("Enter your name")
+if id == "admin":
+    print("Welcome admin")
+else:
+    print("You're not an admin")
